@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mudassirmehdi15@gmail.com**
 
-- ⚡ Fun fact **I think I am Programmer**
+- ⚡ Fun fact **I think I am Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
