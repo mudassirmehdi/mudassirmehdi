@@ -16,8 +16,7 @@
 | :--- | :--- | :--- |
 | [**Laravel Movie App**](https://github.com/mudassirmehdi/movie-app-laravel) | It Grap movie info from TMDB API | Laravel + Livewire + TailwindCSS |
 | [**Medium**](https://github.com/mudassirmehdi/medium-clone) | Medium Clone | Laravel + TailwindCSS + Alpine.js |
-| [**London Rate**](https://github.com/mudassirmehdi/londonrate-frontend) | Find Values by IP Type |
-Bootstrap + PHP + MySQL |
+| [**London Rate**](https://github.com/mudassirmehdi/londonrate-frontend) | Find Values by IP Type | Bootstrap + PHP + MySQL |
 
 <img src="./assets/id-dashboard.svg?v=4" width="100%"
     alt="Mudassar’s Developer Dashboard — showcasing my builder journey, open-source contributions, and professional growth. Building impactful projects, sharing knowledge, and creating solutions that make a difference. Snapshot: October 20, 2026." />
